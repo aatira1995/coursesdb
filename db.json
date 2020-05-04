@@ -1,0 +1,32 @@
+{
+  "courses":[
+    {
+      "name": "Course 1",
+      "id": 1,
+      "authorId": 1,
+      "description": "course desciption 1"
+    },
+    {
+      "name": "Course 2",
+      "id": 2,
+      "authorId": 1,
+      "description": "course desciption 2"
+    },
+    {
+      "name": "Course 3",
+      "id": 3,
+      "authorId": 2,
+      "description": "course desciption 3"
+    }
+  ],
+  "authors":[
+    {
+      "name": "Author 1",
+      "id": 1
+    },
+    {
+      "name": "Author 2",
+      "id": 2
+    }
+  ]
+}
